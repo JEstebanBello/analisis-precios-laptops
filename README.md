@@ -50,5 +50,5 @@ _Pendiente._
 ## 📊 Fuente de los datos
 
 - **Dataset:** [Laptop Price – Kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price) (Muhammet Varlı).
-- **Archivos:** `datos/laptop_price.csv` (original, 1.303 filas) y `datos/laptops_limpio.csv` (depurado, 1.275 filas).
+- **Archivos:** `datos/laptop_price.csv` (original, 1.303 filas), `datos/laptops_limpio.csv` (depurado, 1.275 filas) y `datos/laptops.xlsx` (versión en Excel con resumen estadístico y diccionario de columnas).
 - **Limitaciones:** los precios son de una tienda en línea de ~2017-2018 y están en **euros**, así que no reflejan el mercado colombiano actual.
