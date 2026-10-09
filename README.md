@@ -31,10 +31,24 @@ analisis-precios-laptops/
 2. **Estadística descriptiva:** tendencia central, dispersión, comparación de variables y outliers.
 3. **Modelado y storytelling:** visualizaciones, regresión lineal y aplicación profesional.
 
+## 💻 Notebook
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JEstebanBello/analisis-precios-laptops/blob/main/notebook/analisis_precios_laptops.ipynb)
+
+[`notebook/analisis_precios_laptops.ipynb`](notebook/analisis_precios_laptops.ipynb) contiene las tres etapas. En Colab basta con *Entorno de ejecución → Ejecutar todas*: el dataset se carga directamente desde este repositorio.
+
+## 📌 Hallazgos principales
+
+- El precio típico (mediana) de una laptop es **≈ 989 €**, con mucha dispersión: de 174 € a 6.099 €.
+- **RAM, SSD y procesador** son lo que más encarece un equipo; el disco duro (HDD) y el tamaño de pantalla casi no influyen.
+- Una **regresión lineal** con 4 variables (RAM, SSD, peso y densidad de píxeles) explica el **70 %** de la variación del precio, con un error promedio de **≈ 298 €**.
+
 ## 🎥 Video
 
 _Pendiente._
 
 ## 📊 Fuente de los datos
 
-_Pendiente._
+- **Dataset:** [Laptop Price – Kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price) (Muhammet Varlı).
+- **Archivos:** `datos/laptop_price.csv` (original, 1.303 filas) y `datos/laptops_limpio.csv` (depurado, 1.275 filas).
+- **Limitaciones:** los precios son de una tienda en línea de ~2017-2018 y están en **euros**, así que no reflejan el mercado colombiano actual.
