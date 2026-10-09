@@ -7,8 +7,8 @@ Proyecto final del curso de **Ciencia de Datos**: aplicamos el flujo completo de
 | Nombre | GitHub |
 |---|---|
 | Juan Bello | [@JEstebanBello](https://github.com/JEstebanBello) |
-| Martin | https://github.com/Zamxsu |
-| Jenncy | jenncynayely2903@gmail.com |
+| Martin | - |
+| Jenncy | - |
 
 ## 🎯 ¿Por qué este dataset?
 
