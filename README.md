@@ -43,6 +43,10 @@ analisis-precios-laptops/
 - **RAM, SSD y procesador** son lo que más encarece un equipo; el disco duro (HDD) y el tamaño de pantalla casi no influyen.
 - Una **regresión lineal** con 4 variables (RAM, SSD, peso y densidad de píxeles) explica el **70 %** de la variación del precio, con un error promedio de **≈ 298 €**.
 
+## 📑 Presentación
+
+[`presentacion/presentacion_precios_laptops.pdf`](presentacion/presentacion_precios_laptops.pdf) (también en `.pptx`, con el guion del video en las notas del orador).
+
 ## 🎥 Video
 
 _Pendiente._
